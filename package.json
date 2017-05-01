@@ -1,0 +1,21 @@
+{
+  "name": "image-recognition",
+  "version": "1.0.0",
+  "description": "Image Recognition for nodejs",
+  "main": "imagerecognition.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xc0d3rz/npm-imagerecognition.git"
+  },
+  "keywords": [
+    "imagerecognition",
+    "AI"
+  ],
+  "author": "xC0d3rZ",
+  "license": "MIT",
+  "dependencies": {
+    "dom-parser": "^0.1.5",
+    "request": "^2.81.0"
+  }
+}
